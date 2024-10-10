@@ -3,9 +3,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwOTZkaDVhc3NmbnIyMHJlMjNja3V5dnU0eWRja3cyNGRvZDV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 - 🔭 I’m currently working on **Getting a Placement**.
 - 🌍 Living in _very good_ college for now.
 - Final Year Student @ VIT Vellore
+- Held Discord Developer Badge for 2 Years.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -14,7 +16,7 @@
 <a href="http://www.instagram.com/armnx10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  
 <a href="https://www.linkedin.com/in/aaravmaan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
-<h3 align="left">Tech Stack</h3>
+### Tech Stack
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -34,5 +36,8 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/></a>
+</p>
 
+<p align="center">
+  <img alt="Discord" width="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R0a3UxNGR0NGU5OTYyMjNpMmF2d29jaHg3Y290ZWc1OGZkeXVvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wm9wMRpUgqxn0dAVn1/giphy.gif">
 </p>
