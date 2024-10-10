@@ -1,6 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on NAHI PATA
 - 🌱 I’m currently learning to use IOT conecpts and devices.
+
+- qwertyiojhgfd
 <!--
 **ARMNX10/ARMNX10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
