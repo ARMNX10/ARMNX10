@@ -5,7 +5,6 @@
 
 
 - 🔭 I’m currently working on **Getting a Placement**.
-- 🌍 Living in _very good_ college for now.
 - Final Year Student @ VIT Vellore
 - Held Discord Developer Badge for 2 Years.
 
