@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Aarav Maan aka ARMNX</h1>
-<p align="center" style="color: orange;"><strong> Software/Buisness/ML Engineer and a Massive Chicken Lover </strong></p>
+<p align="center" style="color: orange;"><strong> Engineer and a Massive Chicken Lover </strong></p>
 
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwOTZkaDVhc3NmbnIyMHJlMjNja3V5dnU0eWRja3cyNGRvZDV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
